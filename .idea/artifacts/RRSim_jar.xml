@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RRSim:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RRSim_jar</output-path>
+    <root id="archive" name="RRSim.jar">
+      <element id="module-output" name="RRSim" />
+    </root>
+  </artifact>
+</component>
